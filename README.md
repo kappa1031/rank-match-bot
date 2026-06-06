@@ -59,10 +59,3 @@ Discord上で動作する、第五人格（Identity V）の戦績管理・自動
    python rank-match.py
    ```
 
-## 📝 今後の課題・展望
-*   より多様な解像度への完全対応
-*   OCRを用いたプレイヤー名や得点（ポイント）の自動読み取りの追加
-*   戦績の推移をグラフ化してDiscord上に画像として送信する機能
-
----
-*Created as a personal portfolio project to demonstrate skills in Python, Discord Bot development, and Computer Vision (OpenCV).*
